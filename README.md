@@ -1,1 +1,1 @@
-# test :cat: :koala:
+# test :cat:
